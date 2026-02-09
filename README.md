@@ -81,7 +81,11 @@ Web-based attendance with biometric integration and real-time updates
 ⭐ If you like my work, feel free to star a repo or reach out!
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martin-Rwanda&show_icons=true&hide_title=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Martin-Rwanda)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Martin-Rwanda&show_icons=true&theme=default&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Martin-Rwanda&theme=default&hide_border=true" />
+</p>
