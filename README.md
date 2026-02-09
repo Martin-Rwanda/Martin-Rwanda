@@ -3,7 +3,7 @@
 🔭 Backend Engineer focused on secure, scalable systems  
 👯 Open to collaborating on backend, API, and DevOps projects  
 💬 Ask me about Node.js, REST APIs, Authentication, Docker, Security  
-📫 Reach me at: your-email@gmail.com  
+📫 Reach me at: ntezijmartin27@gmail.com  
 
 ---
 
