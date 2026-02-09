@@ -72,9 +72,9 @@ Web-based attendance with biometric integration and real-time updates
 
 
 ## 🌍 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/your-username
-- Email: mailto:your-email@gmail.com
+- LinkedIn: https://linkedin.com/in/jean-martin-nteziryayo-714523196
+- GitHub: https://github.com/Martin-Rwanda
+- Email: mailto:ntezijmartin27@gmail.com
 
 ---
 
